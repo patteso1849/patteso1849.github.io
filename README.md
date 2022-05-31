@@ -3,8 +3,16 @@
 # Personal Profile
 ### Philosophy instructor with two master's degrees and eight years of experience teaching at the university level. Administrative Assistant with more than two and a half years of office management experience at universities, non-profit outreach, and for-profit organizations. Five years of experience marketing, selling, and writing prose and fiction. Finally, experience in web design and development as well as qualitative and quantitative research methodologies. 
 
-#### H4
-##### H5
+## Education  
+### 2024 Doctor of Education	
+##### University of Missouri- St. Louis, St. Louis, U.S.A. 
+### 2020 	Master of Education Higher Education	 
+##### University of Missouri- St. Louis, St. Louis, U.S.A. 
+### 2017	Master of Arts In Philosophy
+##### University of Missouri- St. Louis, St. Louis, U.S.A. 
+### 2011	Bachelor of Science in Public Administration
+##### Harris-Stowe State University, St. Louis, U.S.A. 
+
 ###### H6
 
 Alternatively, for H1 and H2, an underline-ish style:
