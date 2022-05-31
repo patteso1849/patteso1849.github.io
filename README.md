@@ -12,6 +12,40 @@
 ### 2011	Bachelor of Science in Public Administration
 ##### Harris-Stowe State University, St. Louis, U.S.A. 
 
+
+## Work Experience  
+
+### Adjunct Instructor of Philosophy
+### 2017 –  Present 	
+#### Harris-Stowe State University	
+##### •	Instructing classes (both in-person and online) with 25 to 30 students in the needed skills of philosophical inquiry. 
+##### •	Lesson planning, grading papers, and conducting research.
+##### •	Using papers to measure the success of my students and indicating the desired change in the student's thinking.
+##### •	Utilizing PowerPoint, Excel, and various visual images (diagrams, pictures, and movies) to address students with different learning styles, lifestyles, and pasts.
+##### •	Designing and creating online classes. 
+##### •	Utilizing active learning and letting students take responsibility for their education by becoming involved in the teaching process.
+
+
+### Administrative Assistant
+### 2020 –  Present 	
+#### Harris-Stowe State University  	 
+##### •	Managing correspondences, complaints, and queries
+##### •	Preparing letters, presentations, and reports
+##### •	Liaising with staff, suppliers, and clients
+##### •	Implementing and maintaining procedures
+##### •	Using a range of software packages
+##### •	Attending meetings with senior management
+##### •	Assisting the organization's functions by keeping records up to date
+
+
+
+
+
+
+
+
+
+
 ###### H6
 
 Alternatively, for H1 and H2, an underline-ish style:
