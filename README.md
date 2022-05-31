@@ -1,8 +1,8 @@
-# patteso1849.github.io
+# RC Patterson's Resume and CV
 
-# H1
-## H2
-### H3
+# Personal Profile
+### Philosophy instructor with two master's degrees and eight years of experience teaching at the university level. Administrative Assistant with more than two and a half years of office management experience at universities, non-profit outreach, and for-profit organizations. Five years of experience marketing, selling, and writing prose and fiction. Finally, experience in web design and development as well as qualitative and quantitative research methodologies. 
+
 #### H4
 ##### H5
 ###### H6
