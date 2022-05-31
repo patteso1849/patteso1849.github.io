@@ -39,8 +39,9 @@
 
 
 ## Skills
-### Languages 			English – native
-                  	Spanish/Dutch –  beginner (early A1)
+### Languages
+####### 	English – native
+####### 	Spanish/Dutch –  beginner (early A1)
  
 ### Technical skills	
 ###### 	Microsoft Office Suite
