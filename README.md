@@ -5,11 +5,10 @@
 
 ## Education  
 ### 2024 Doctor of Education	
-##### University of Missouri- St. Louis, St. Louis, U.S.A. 
 ### 2020 	Master of Education Higher Education	 
-##### University of Missouri- St. Louis, St. Louis, U.S.A. 
 ### 2017	Master of Arts In Philosophy
 ##### University of Missouri- St. Louis, St. Louis, U.S.A. 
+
 ### 2011	Bachelor of Science in Public Administration
 ##### Harris-Stowe State University, St. Louis, U.S.A. 
 
