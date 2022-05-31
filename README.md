@@ -22,9 +22,10 @@ Alt-H1
 Alt-H2
 ------
 
-[This is a link to my site](https://patteso1849.wordpress.com/)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[Capstone Project](https://openmics-in-st-louis-city.netlify.app/#))
+[Personal Blog](https://patteso1849.wordpress.com/)
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
