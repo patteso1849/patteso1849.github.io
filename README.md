@@ -70,7 +70,8 @@
 ## [Capstone Project](https://openmics-in-st-louis-city.netlify.app/#)
 ## [Personal Blog]([https://patteso1849.wordpress.com/about/))
 
-### Soft skills		Effective communication
+### Soft skills	
+###### 	Effective communication
 ###### 	Leadership
 ###### 	Troubleshooting
 ###### 	Commercial Awareness
