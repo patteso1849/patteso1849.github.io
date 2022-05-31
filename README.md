@@ -15,7 +15,7 @@ Alt-H1
 Alt-H2
 ------
 
-[I'm an inline-style link](https://www.google.com)
+[This is a link to my site](https://patteso1849.wordpress.com/)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
