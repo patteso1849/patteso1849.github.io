@@ -38,43 +38,45 @@
 ##### •	Assisting the organization's functions by keeping records up to date
 
 
-
-
-
-
-
-
-
-
-###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
-
-
-
+## Skills
+### Languages 			English – native
+                  	Spanish/Dutch –  beginner (early A1)
+ 
+### Technical skills	
+###### 	Microsoft Office Suite
+###### 	Mobile devices 
+###### 	HTML5 
+###### 	CSS3 
+###### 	JavaScript 
+###### 	Python
+###### 	JSON 
+###### 	JQuery 
+###### 	WebAPI
+###### 	Python Certification
+###### 	Web Design
+###### 	Jenzabar CX (Live) – (An SIS built on the industry-leading Microsoft SQL Server platform
+###### 	Agile Training and completed Certification
+###### 	Office management
+###### 	Microsoft Office Suite
+###### 	Classroom management 
+###### 	Strong verbal communication 
+###### 	Sales and advertisement 
+###### 	Team Leadership 
+###### 	Organization Skills
+###### 	Attention to Detail 
+###### 	Task Oriented	
+ 
 [Capstone Project](https://openmics-in-st-louis-city.netlify.app/#))
 [Personal Blog](https://patteso1849.wordpress.com/)
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+### Soft skills		Effective communication
+###### 	Leadership
+###### 	Troubleshooting
+###### 	Commercial Awareness
+###### 	Communication
+###### 	Empathy		Proper phone etiquette
+###### 	Trustworthiness
+###### 	Drive and Initiative
+###### 	Critical Thinking
+###### 	Teamwork
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
