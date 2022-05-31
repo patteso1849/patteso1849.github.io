@@ -66,8 +66,8 @@
 ###### 	Attention to Detail 
 ###### 	Task Oriented	
  
-[Capstone Project](https://openmics-in-st-louis-city.netlify.app/#))
-[Personal Blog](https://patteso1849.wordpress.com/)
+## [Capstone Project](https://openmics-in-st-louis-city.netlify.app/#)
+## [Personal Blog](https://patteso1849.wordpress.com/)
 
 ### Soft skills		Effective communication
 ###### 	Leadership
